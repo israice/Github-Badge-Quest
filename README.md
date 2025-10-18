@@ -17,6 +17,9 @@ The site provides step-by-step tutorials for earning specific achievements like 
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/israice/Github-Badge-Quest?style=for-the-badge" />
 </p>
 
+> **Web Version:**  
+> https://israice.github.io/Github-Badge-Quest/
+<br/>
 
 Read this in other languages:
 
@@ -51,12 +54,22 @@ _Don't have the language you need? Just create an [issue](https://github.com/isr
 
 
 
-## Dev Roadmap
+## Dev
+
+<details open>
+<summary>Roadmap</summary>
+
 - [ ] v.0.0.3 test language links
-- [ ] v.0.0.2 create github pages
+- [x] v.0.0.2 create github pages
 - [x] v.0.0.1 create project files
 
-### Github Update
+</details>
+
+
+<details>
+<summary>Github Update</summary>
 git add .
-git commit -m "v.0.0.1 create project files"
+git commit -m "v.0.0.2 create github pages"
 git push
+
+</details>
