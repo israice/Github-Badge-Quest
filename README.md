@@ -18,7 +18,7 @@ The site provides step-by-step tutorials for earning specific achievements like 
 </p>
 
 > **Web Version:**  
-> https://israice.github.io/Github-Badge-Quest/
+> https://translateme.online/
 <br/>
 
 Read this in other languages:
